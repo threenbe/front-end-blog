@@ -31,11 +31,16 @@ th {
   padding: 8px;
 }
 
+.nature-table-cells {
+  background: #acace6;
+}
+
 /* This is probably a really terrible practice,
  * if I had to guess, in the sense that CSS should 
  * only be used for styling and not to specify
  * content/structure, but in this context it made
- * things a lot easier with all the repeated cells. */
+ * things a lot easier with all the repeated cells. 
+ */
 .atk::before {
   content: "Attack";
 }
