@@ -1,0 +1,22 @@
+.title {
+  font-size: 35px;
+}
+
+.heading-2 {
+  color: #000;
+}
+
+.h2-highlight {
+  background-color: #75e6da;
+}
+
+hr {
+  width: 40%;
+  margin-left: 0;
+}
+
+img.rei {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
