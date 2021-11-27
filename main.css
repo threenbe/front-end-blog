@@ -23,16 +23,13 @@ img.rei {
 
 .nature-table {
   border-collapse: collapse;
+  background: #bfc0ee;
 }
 
 td,
 th {
   border: 2px solid rgb(49, 49, 49);
   padding: 8px;
-}
-
-.nature-table-cells {
-  background: #bfc0ee;
 }
 
 /* This is probably a really terrible practice,
